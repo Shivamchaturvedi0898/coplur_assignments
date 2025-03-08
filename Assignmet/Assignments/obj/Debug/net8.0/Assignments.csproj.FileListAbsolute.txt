@@ -12,3 +12,4 @@ C:\Users\shivam\Documents\coplur_tasks\Assignmet\Assignments\obj\Debug\net8.0\re
 C:\Users\shivam\Documents\coplur_tasks\Assignmet\Assignments\obj\Debug\net8.0\Assignments.pdb
 C:\Users\shivam\Documents\coplur_tasks\Assignmet\Assignments\obj\Debug\net8.0\Assignments.genruntimeconfig.cache
 C:\Users\shivam\Documents\coplur_tasks\Assignmet\Assignments\obj\Debug\net8.0\ref\Assignments.dll
+C:\Users\shivam\Documents\coplur_tasks\Assignmet\Assignments\obj\Debug\net8.0\Assignments.sourcelink.json
